@@ -1,2 +1,5 @@
-# github-Final
-Final lab exam
+# My profile
+## About Me
+- Nick name: Boss
+- Major: Computer sience
+- Year: 1
